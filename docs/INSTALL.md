@@ -1,5 +1,5 @@
 # Mainnet Installation
-  This is highly experimental, only use this if you are confortable losing your money
+  This is highly experimental, only use this if you are comfortable losing your money
 
 # Installation
 
