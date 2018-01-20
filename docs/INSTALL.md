@@ -1,3 +1,6 @@
+# Mainnet Installation
+  This is highly experimental, only use this if you are confortable losing your money
+
 # Installation
 
 ### Preliminaries
@@ -51,7 +54,7 @@
 With the preliminary steps completed, to install `lnd`, `lncli`, and all
 related dependencies run the following commands:
 ```
-git clone https://github.com/lightningnetwork/lnd $GOPATH/src/github.com/lightningnetwork/lnd
+git clone https://github.com/KevinKelbie/lnd $GOPATH/src/github.com/lightningnetwork/lnd
 cd $GOPATH/src/github.com/lightningnetwork/lnd
 glide install
 go install . ./cmd/...
